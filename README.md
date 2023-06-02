@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br><br>
 
-В рамках обучения я создал три проекта:
+Я создал три проекта:
 - [Russian travel](https://ivan-lev.github.io/russian-travel/)
 - [How to learn](https://ivan-lev.github.io/how-to-learn/)
 - [Mesto](https://ivan-lev.github.io/mesto/)

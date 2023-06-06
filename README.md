@@ -1,8 +1,8 @@
 <h1 align=center>Приветствую!</h1>
 <p align="center">
-  Меня зовут <b>Иван</b>, я начинающий веб-разработчик, прохожу профильный курс на Яндекс.Практикуме.
+  Меня зовут <b>Иван</b>, я учусь на курсе Веб-разработчик в Яндекс.Практикуме.
 <br><br>
-Если кратко:
+Если кратко, то вот мой основной набор:
 <br>
 <img title="normalize.css" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/normalizedotcss.svg">
 <img title="Autoprefixer" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/autoprefixer.svg">

@@ -3,15 +3,15 @@
   Меня зовут <b>Иван</b>, я начинающий веб-разработчик, прохожу профильный курс на Яндекс.Практикуме.
 <br><br>
 Если кратко:
-<br><br>
-<img title="normalize.css" height=32 width=32 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/normalizedotcss.svg">
-<img title="Autoprefixer" height=32 width=32 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/autoprefixer.svg">
-<img title="BEM" height=32 width=32 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/bem.svg">
-<img title="CSS" height=32 width=32 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/css3.svg">
-<img title="HTML" height=32 width=32 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/html5.svg">
-<img title="JS" height=32 width=32 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/javascript.svg">
-<img title="Visual Studio Code" height=32 width=32 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/visualstudiocode.svg">
-<img title="Git" height=32 width=32 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/git.svg">
+<br>
+<img title="normalize.css" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/normalizedotcss.svg">
+<img title="Autoprefixer" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/autoprefixer.svg">
+<img title="BEM" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/bem.svg">
+<img title="CSS" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/css3.svg">
+<img title="HTML" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/html5.svg">
+<img title="JS" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/javascript.svg">
+<img title="Visual Studio Code" height=24 width=32 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/visualstudiocode.svg">
+<img title="Git" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/git.svg">
 <br><br><br>
 В рамках обучения я создал три проекта:
 <br><br>

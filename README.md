@@ -15,9 +15,9 @@
 <br><br><br>
 В рамках обучения я создал три проекта:
 <br><br>
-&nbsp;<a href="https://ivan-lev.github.io/russian-travel/"><img src="https://iili.io/HrZ0ZcF.jpg" alt="Путешествия по России"></a>&nbsp; 
-&nbsp;<a href="https://ivan-lev.github.io/how-to-learn/"><img src="https://iili.io/HrZ0s6P.jpg" alt="Научиться учиться"></a>&nbsp; 
-&nbsp;<a href="https://ivan-lev.github.io/mesto/"><img src="https://iili.io/HrZ0QF1.jpg" alt="Проект Место"></a><br><br>
+&nbsp;<a href="https://ivan-lev.github.io/how-to-learn/"><img title="Научиться учиться. Простой сайт с анимацией" src="https://iili.io/HrZ0s6P.jpg" alt="Научиться учиться"></a>&nbsp; 
+&nbsp;<a href="https://ivan-lev.github.io/russian-travel/"><img title="Путешествия по России. Сайт с адаптивной вёрсткой" src="https://iili.io/HrZ0ZcF.jpg" alt="Путешествия по России"></a>&nbsp; 
+&nbsp;<a href="https://ivan-lev.github.io/mesto/"><img title="Проект Место. Сайт с интерактивной частью на JavaScript" src="https://iili.io/HrZ0QF1.jpg" alt="Проект Место"></a><br><br>
 <br>
 В качестве практики я самостоятельно работаю над проектом NTF-Merketplace (вёрстка, адаптивность, отзывчивость, интерактивность).
 <br><br>

@@ -19,7 +19,7 @@
 &nbsp;<a href="https://ivan-lev.github.io/russian-travel/"><img title="Путешествия по России. Сайт с адаптивной вёрсткой" src="https://iili.io/HrZ0ZcF.jpg" alt="Путешествия по России"></a>&nbsp; 
 &nbsp;<a href="https://ivan-lev.github.io/mesto/"><img title="Проект Место. Сайт с интерактивной частью на JavaScript" src="https://iili.io/HrZ0QF1.jpg" alt="Проект Место"></a><br><br>
 <br>
-В качестве практики я самостоятельно работаю над проектом NTF-Marketplace (вёрстка, адаптивность, отзывчивость, интерактивность).
+В качестве практики я самостоятельно верстаю проект NTF-Marketplace (вёрстка, адаптивность, отзывчивость, интерактивность).
 <br><br>
 <a href="https://ivan-lev.github.io/nft-marketplace/"><img src="https://iili.io/H4qnuwX.jpg" alt="NFT-Marketplace"></a>
 </p>

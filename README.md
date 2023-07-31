@@ -3,15 +3,15 @@
   Меня зовут <b>Иван</b>, я учусь на курсе Веб-разработчик в Яндекс.Практикуме. В рамках курса я освоил семантическую, отзывчивую вёрстку и корректную стилизацию страницы средствами CSS, а также освоил методологию БЭМ. Сейчас я изучаю JavaScript. В работе использую Visual Studio Code с набором плагинов. Normalize.css и Autoprefixer помогают добиться максимальной предсказуемости и совместимости. Все мои проекты проходят проверку валидности W3C, валидацию БЭМ и проверку оптимизации для мобильных устройств.
 <br><br>
 Если кратко, то вот мой основной набор:
-<br>
-<img title="normalize.css" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/normalizedotcss.svg">
-<img title="Autoprefixer" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/autoprefixer.svg">
-<img title="BEM" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/bem.svg">
-<img title="CSS" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/css3.svg">
-<img title="HTML" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/html5.svg">
-<img title="JS" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/javascript.svg">
-<img title="Visual Studio Code" height=24 width=32 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/visualstudiocode.svg">
-<img title="Git" height=24 width=24 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/git.svg">
+<br><br>
+<img title="normalize.css" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/normalizedotcss.svg">&nbsp;&nbsp;
+<img title="Autoprefixer" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/autoprefixer.svg">&nbsp;&nbsp;
+<img title="BEM" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/bem.svg">&nbsp;&nbsp;
+<img title="CSS" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/css3.svg">&nbsp;&nbsp;
+<img title="HTML" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/html5.svg">&nbsp;&nbsp;
+<img title="JS" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/javascript.svg">&nbsp;&nbsp;
+<img title="Visual Studio Code" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/visualstudiocode.svg">&nbsp;&nbsp;
+<img title="Git" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/git.svg">
 <br><br><br>
 В рамках обучения я создал три проекта:
 <br><br>

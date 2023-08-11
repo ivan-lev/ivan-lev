@@ -4,14 +4,14 @@
 <br><br>
 Если кратко, то вот мой основной набор:
 <br><br>
-<img title="normalize.css" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/normalizedotcss.svg">&nbsp;&nbsp;
-<img title="Autoprefixer" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/autoprefixer.svg">&nbsp;&nbsp;
-<img title="BEM" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/bem.svg">&nbsp;&nbsp;
-<img title="CSS" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/css3.svg">&nbsp;&nbsp;
-<img title="HTML" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/html5.svg">&nbsp;&nbsp;
-<img title="JS" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/javascript.svg">&nbsp;&nbsp;
-<img title="Visual Studio Code" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/visualstudiocode.svg">&nbsp;&nbsp;
-<img title="Git" height=48 width=48 src="https://github.com/ivan-lev/ivan-lev/blob/main/icons/git.svg">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?logo=css3">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=%23FFFFFF">
+<img alt="Static Badge" src="https://img.shields.io/badge/BEM-%23000000?logo=bem">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=%23000000">
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-%23FFFFFF?logo=git&logoColor=%23F05032">
+<img alt="Static Badge" src="https://img.shields.io/badge/VSCode-%23007ACC?logo=visualstudiocode">
+<img alt="Static Badge" src="https://img.shields.io/badge/npm-%23CB3837?logo=npm">
+<img alt="Static Badge" src="https://img.shields.io/badge/Webpack-%23FFFFFF?logo=webpack&logoColor=%238DD6F9">
 <br><br><br>
 В рамках обучения я создал три проекта:
 <br><br>
@@ -26,3 +26,4 @@
 <br><br>
 В каждом проекте применяется методология БЭМ. 
 Посмотреть код проектов можно в их репозиториях <a href="https://github.com/ivan-lev?tab=repositories">Github</a>.<br>
+<p style="color:red">badges</p>

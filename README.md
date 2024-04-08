@@ -1,10 +1,12 @@
 <h1 align=center>Приветствую!</h1>
-<div align="center">
+<div>
   
   Меня зовут <b>Иван</b>, я веб-разработчик. Я всегда хотел создавать красивые вещи в интернете и научился. Пишу проекты на HTML/CSS/JavaScript, изучаю TypeScript для повышения стабильности и предсказуемости выполнения кода. Радуюсь, когда интерфейсы выглядят современно, а пользоваться ими настолько удобно и естественно, что человек даже не замечает этого. В работе использую Visual Studio Code с набором плагинов. Люблю, когда мои проекты проходят проверку валидности W3C и валидацию БЭМ, поэтому всегда пропускаю код через системы проверки.
 <br><br>
-  
-Если кратко, то вот мой основной набор:
+</div>
+
+<div align="center">
+Если кратко, то вот мой основной технологический стек:
 <br><br>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?logo=css3">
@@ -13,6 +15,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23FFFFFF?logo=git&logoColor=%23F05032">
 <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-%23007ACC?logo=visualstudiocode">
+<br>
 <img alt="Static Badge" src="https://img.shields.io/badge/npm-%23CB3837?logo=npm">
 <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-%23FFFFFF?logo=webpack&logoColor=%238DD6F9">
 <img alt="Static Badge" src="https://img.shields.io/badge/React-E4405F?style=flat&logo=react&color=666666">
@@ -22,9 +25,16 @@
   
 Посмотреть код моих проектов можно в репозиториях <a href="https://github.com/ivan-lev?tab=repositories">Github</a>.
 <br><br>
-  
+</div>
+
+<div>Я не только смотрю в монитор, но ещё увлекаюсь фотографией, китайским чаем, коллекционирую японскую керамику. Последнее увлечение развилось настолько, что моя коллекция побывала в музее Нестерова в Уфе, в Краеведческом музее Челябинска, в галерее в Миассе, и в Центральной городской библиотеке им. Герцена в Екатеринбурге.
+<br><br>
+</div>
+
+<div align="center">
 Мои соцсети:
 <br><br>
+  
   <a href="https://t.me/IvanLev">![Static Badge](https://img.shields.io/badge/Telegram-24a1de?style=flat&logo=telegram&logoColor=white)</a>
   <a href="https://www.linkedin.com/in/ivanlev/">![Static Badge](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)</a>
   <a href="https://instagram.com/tea_lion">![Static Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=E4405F&color=ffffff)</a>

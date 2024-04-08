@@ -15,10 +15,16 @@
 <br><br>
 Посмотреть код моих проектов можно в репозиториях <a href="https://github.com/ivan-lev?tab=repositories">Github</a>.<br>
 
-Мои соцсети
-<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-24a1de?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FIvanLev">
-![Static Badge](https://img.shields.io/badge/Telegram-24a1de?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FIvanLev)
 
+Мои соцсети:
+<br><br>
+[![Static Badge](https://img.shields.io/badge/Telegram-24a1de?style=flat&logo=telegram&logoColor=white)](https://t.me/IvanLev)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanlev/)
+[![Static Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=E4405F&color=ffffff)
+](https://instagram.com/tea_lion)
+
+
+</p>
 
 Перечислите технологии, которыми владеете: языки программирования, фреймворки, ключевые библиотеки, СУБД и так далее. Важно указывать только то, знание чего сможете подтвердить на собеседовании.
 Продублируйте ссылки на другие социальные сети и статус занятости. Так потенциальный работодатель сможет больше узнать о вас и понять, открыты ли вы для предложений.

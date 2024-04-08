@@ -17,7 +17,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-%23FFFFFF?logo=webpack&logoColor=%238DD6F9">
 <img alt="Static Badge" src="https://img.shields.io/badge/React-E4405F?style=flat&logo=react&color=666666">
 <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-E4405F?style=flat&logo=nodedotjs&color=333333">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-E4405F?style=flat&logo=mongodb&color=888888">
 <br><br>
   
 Посмотреть код моих проектов можно в репозиториях <a href="https://github.com/ivan-lev?tab=repositories">Github</a>.
@@ -30,8 +30,3 @@
   <a href="https://instagram.com/tea_lion">![Static Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=E4405F&color=ffffff)</a>
 
 </div>
-
-
-
-Перечислите технологии, которыми владеете: языки программирования, фреймворки, ключевые библиотеки, СУБД и так далее. Важно указывать только то, знание чего сможете подтвердить на собеседовании.
-Продублируйте ссылки на другие социальные сети и статус занятости. Так потенциальный работодатель сможет больше узнать о вас и понять, открыты ли вы для предложений.

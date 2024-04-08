@@ -17,6 +17,8 @@
 
 Мои соцсети
 <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-24a1de?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FIvanLev">
+![Static Badge](https://img.shields.io/badge/Telegram-24a1de?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FIvanLev)
+
 
 Перечислите технологии, которыми владеете: языки программирования, фреймворки, ключевые библиотеки, СУБД и так далее. Важно указывать только то, знание чего сможете подтвердить на собеседовании.
 Продублируйте ссылки на другие социальные сети и статус занятости. Так потенциальный работодатель сможет больше узнать о вас и понять, открыты ли вы для предложений.

@@ -12,20 +12,24 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?logo=css3">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/BEM-%23000000?logo=bem">
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=%23000000">
+<img alt="Static Badge" src="https://img.shields.io/badge/JS-%23F7DF1E?logo=javascript&logoColor=%23000000">
+<img alt="Static Badge" src="https://img.shields.io/badge/TS-white?logo=typescript">
+<br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23FFFFFF?logo=git&logoColor=%23F05032">
 <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-%23007ACC?logo=visualstudiocode">
-<br>
 <img alt="Static Badge" src="https://img.shields.io/badge/npm-%23CB3837?logo=npm">
 <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-%23FFFFFF?logo=webpack&logoColor=%238DD6F9">
+<br>
 <img alt="Static Badge" src="https://img.shields.io/badge/React-E4405F?style=flat&logo=react&color=666666">
+<img alt="Static Badge" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-E4405F?style=flat&logo=nodedotjs&color=333333">
 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-E4405F?style=flat&logo=mongodb&color=888888">
 <br><br>
 </div>
 
 Сейчас:
-- разбираюсь с TypeScript, чтобы сделать код более предсказуемым и стабильным
+- разбираюсь с TypeScript, чтобы сделать код более предсказуемым и стабильным (сделал пару небольших проектов)
+- разбираюсь с Redux (внедрил этот стэйт-менеджер вместо хука useState в последнем проекте)
 - расширяю стек технологий, чтобы действовать более эффективно
 - хочу найти команду, в которой буду создавать что-то красивое и полезное
 
